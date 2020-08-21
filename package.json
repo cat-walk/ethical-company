@@ -1,0 +1,28 @@
+{
+  "name": "ethical-company",
+  "version": "0.1.0",
+  "description": "致力于收集全球良心公司，并提供帮助，避免劣币驱逐良币。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat-walk/ethical-company.git"
+  },
+  "keywords": [
+    "ethical",
+    "company",
+    "996",
+    "007",
+    "955",
+    "moral",
+    "privacy"
+  ],
+  "author": "Alfred Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cat-walk/ethical-company/issues"
+  },
+  "homepage": "https://github.com/cat-walk/ethical-company#readme"
+}
